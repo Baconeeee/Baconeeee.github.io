@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baconeeee / About Me"
+title                    : "Baconeeee / Homepage"
 title_separator          : "-"
 name                     : "Baconeeee"
 description              : "An undergraduate at NJU/ Major in journalism/ An immature film lover/ Enjoy writing and drawing"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Baconeeee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "An undergraduate at NJU/ Major in journalism/ An immature film lover/ Enjoy writing and drawing"
+  location         : "CN"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
