@@ -23,4 +23,4 @@ Education
 ======
 - Bachelor's degree in progress, Nanjing University, Nanjing, China. Department of Journalism and Communication (September, 2020-present).
 
-✒[Edit this page](https://github.com/Baconeeee/Baconeeee.github.io/edit/master/_pages/about.md)
+✒ [Edit this page](https://github.com/Baconeeee/Baconeeee.github.io/edit/master/_pages/about.md)
