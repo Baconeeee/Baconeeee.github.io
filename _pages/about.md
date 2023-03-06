@@ -19,7 +19,7 @@ Contact Information
 - Website:[https://baconeeee.github.io](https://baconeeee.github.io)
 
 
-Education
+Education Experience
 ======
 - Bachelor's degree in progress, Nanjing University, Nanjing, China. Department of Journalism and Communication (September, 2020-present).
 
