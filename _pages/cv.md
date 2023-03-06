@@ -32,6 +32,11 @@ Work Experience
   - New Oriental Education & Technology Group
   - Duties included: Correcting Assignments
 
+- 2021-2023：Member of NewTide
+  - Media on campus: NewTide
+  - Duties included: Filming and designing
+  - Some of the works:[漫画 | 拜托老师，能不能不要布置那么多小组作业？！](https://mp.weixin.qq.com/s?__biz=MjM5ODQ4NTM2Ng==&mid=2651183688&idx=1&sn=0344461ed894d3567a451eda45c36bfd&chksm=bd3b76518a4cff47840c5ecd22dd5e6627a176de6e17daee5dbfba1d7ff9fb6d4e062c162a8f&mpshare=1&scene=1&srcid=0306a9Yf830wYlTuyglGVUza&sharer_sharetime=1678064182053&sharer_shareid=dfd5791e36fa2da064257027f8ce4c74#rd)
+
 
 Publications
 ======
