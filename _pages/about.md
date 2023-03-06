@@ -14,7 +14,7 @@ An-Tong Ye is currently an undergraduate student in the School of Journalism and
 Contact Information
 ======
 - School of Journalism and Communication, Nanjing University.
-- 307 Zijin Building, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
+- Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
 - Email: 20181xxxx@smail.nju.edu.cn
 - Website:[https://baconeeee.github.io](https://baconeeee.github.io)
 
