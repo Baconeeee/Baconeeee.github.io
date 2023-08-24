@@ -10,14 +10,12 @@ redirect_from:
 
 An-Tong Ye is currently an undergraduate student in the School of Journalism and Communication, Nanjing University. She is expected to graduate in 2024. She has a keen interest in writing, and have been studying drawing for more than 5 years. She has completed multiple researches, news reports and art works during college years so far. Her researches focusing on intercultural communication, Otome gamers' consuming psychology, contrastive study of languages, art sociology and so on have won her considerable achievements.
 
-
 Contact Information
 ======
 - School of Journalism and Communication, Nanjing University.
 - Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
 - Email: 20181xxxx@smail.nju.edu.cn
-- Website:[https://baconeeee.github.io](https://baconeeee.github.io)
-
+- Website:[https://baconeeee.github.io](https://baconeeee.github.io) [An-Tong Ye](https://antongye.mobirisesite.com/)
 
 Education Experience
 ======
